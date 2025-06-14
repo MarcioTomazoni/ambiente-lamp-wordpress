@@ -8,7 +8,7 @@ This repository documents step-by-step how to create a local LAMP environment su
 ## 📦 How to clone this repository
 
 ```bash
-git clone https://github.com/your-username/ambiente-lamp-wordpress.git
+git clone https://github.com/MarcioTomazoni/ambiente-lamp-wordpress.git
 cd ambiente-lamp-wordpress
 ```
 
